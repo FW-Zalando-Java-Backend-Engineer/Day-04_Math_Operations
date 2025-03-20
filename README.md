@@ -178,7 +178,7 @@ Prefix ++a: 12
 - **[Java Math Operations](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html)**
 - **[Logical & Relational Operators (GeeksForGeeks)](https://www.geeksforgeeks.org/operators-in-java/)**
 - [Video Lesson Recording](_will be added later_)
-- [Lesson Slides: Math Operations]()
+- [Lesson Slides: Math Operations](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-04_Math_Operations/blob/main/Math%20Operations.pdf)
 
 ---
 
