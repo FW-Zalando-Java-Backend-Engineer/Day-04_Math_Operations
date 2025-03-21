@@ -177,7 +177,7 @@ Prefix ++a: 12
 - **[Java Control Flow Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)**
 - **[Java Math Operations](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html)**
 - **[Logical & Relational Operators (GeeksForGeeks)](https://www.geeksforgeeks.org/operators-in-java/)**
-- [Video Lesson Recording](_will be added later_)
+- [Video Lesson Recording](https://us06web.zoom.us/rec/share/SrFn2o0e0o4beMNUpJ3xkZF1nymk2TUGoc5iIaD_-3O51x28c0hfw9goSMBk2NHC.1tmQowhn_uQUhw6M?startTime=1742458331000)
 - [Lesson Slides: Math Operations](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-04_Math_Operations/blob/main/Math%20Operations.pdf)
 
 ---
